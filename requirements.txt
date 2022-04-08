@@ -3,7 +3,6 @@ alabaster
 alembic==1.4.1
 altair==4.2.0
 anaconda-client
-anaconda-project 
 anyio 
 appdirs==1.4.4
 apyori==1.1.2
