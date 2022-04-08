@@ -48,7 +48,7 @@ colorama
 colorlover==0.3.0
 comtypes==1.1.9
 conda
-conda-build==3.21.4
+conda-build
 conda-content-trust 
 conda-package-handling 
 conda-repo-cli 
