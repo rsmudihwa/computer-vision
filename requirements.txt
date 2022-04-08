@@ -49,7 +49,6 @@ colorlover==0.3.0
 comtypes==1.1.9
 conda
 conda-build
-conda-content-trust 
 conda-package-handling 
 conda-repo-cli 
 conda-token 
