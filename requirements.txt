@@ -43,7 +43,7 @@ cffi
 chardet 
 click 
 cloudpickle 
-clyent==1.2.2
+clyent
 colorama 
 colorlover==0.3.0
 comtypes==1.1.9
