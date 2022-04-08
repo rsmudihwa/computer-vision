@@ -47,7 +47,7 @@ clyent
 colorama 
 colorlover==0.3.0
 comtypes==1.1.9
-conda==4.12.0
+conda
 conda-build==3.21.4
 conda-content-trust 
 conda-package-handling 
