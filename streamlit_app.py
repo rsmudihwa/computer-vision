@@ -1,4 +1,4 @@
-from helper import help
+from helper import *
 
 import streamlit as st
 
