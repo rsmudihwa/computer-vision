@@ -8,13 +8,13 @@ import matplotlib.pyplot as plt
 
 import seaborn as sns
 
-sns.set_theme(style="darkgrid")
+sns.set_theme(style="dark")
 
 sns.set()
 
 from PIL import Image
 
-st.title('Video Object Detection ')
+st.title('Video Object Prediction ')
 
 def save_uploaded_file(uploaded_file):
 
@@ -28,7 +28,7 @@ def save_uploaded_file(uploaded_file):
     except:
 
         return 0
-search = st.text_input("Search for Video Objects here....",)
+search = st.text_input("Search for Video Objects....",)
 uploaded_file = st.file_uploader("Upload Video")
 if uploaded_file is not None:
 
