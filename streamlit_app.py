@@ -1,4 +1,4 @@
-from helper import heip
+from helper import help
 
 import streamlit as st
 
